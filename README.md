@@ -1,4 +1,4 @@
-##  Hello!👋 I'm Renato (but you can call me RenRen :-)
+#  Hello!👋 I'm **Renato** (but you can call me RenRen :-)
 🔭 I’m currently studying **Data Science and ML techniques**<br>🌱 I’m currently learning **TensorFlow, SciKit-Learn, PyTorch and general statistics**<br>👯 I’m looking to collaborate on **Exploratory and predictive analysis**<br>📫 To reach me click **[📧](mailto:renatodc89@gmail.com)**<br>⚡ Fun fact **I play CS (Counter-Strike) since 00's and still suck at it. At least I've made good friends though.**
 
 ## 🌐 Socials:
