@@ -10,10 +10,12 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rdcar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rdcar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rdcar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rdcar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+[![](https://visitcount.itsvg.in/api?id=rdcar&icon=5&color=0)](https://visitcount.itsvg.in)
 ---
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 ---
-[![](https://visitcount.itsvg.in/api?id=rdcar&icon=5&color=0)](https://visitcount.itsvg.in)
+[**Listen to cool music**](https://www.youtube.com/watch?v=eVTXPUF4Oz4)<br/>
+<img src="https://media.giphy.com/media/4oMoIbIQrvCjm/giphy.gif?cid=790b761140b3nehmvx0cguj5u7jzx71317e0mgazf6tap3p7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="13%" height="auto">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
