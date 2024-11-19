@@ -1,35 +1,19 @@
-<h1 align="center">Hi 👋, I'm Renato but you can call me Ren!</h1>
-<h3 align="center">A career-transitioning brazilian professional with a strong background in clinical dentistry, scientific writing, and health statistics, now passionate about data science and machine learning.</h3>
+## 💫 Hello 👋, I'm Renato (but you can call me RenRen :-)
+🔭 I’m currently studying **Data Science and ML techniques**<br>🌱 I’m currently learning **TensorFlow, SciKit-Learn, PyTorch and general statistics**<br>👯 I’m looking to collaborate on **Exploratory and predictive analysis**<br>📫 To reach me click **[📧](mailto:renatodc89@gmail.com)**<br>⚡ Fun fact **I play CS (Counter-Strike) since 00's and still suck at it. At least I've made good friends though.**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rdcar&label=Profile%20views&color=0e75b6&style=flat" alt="rdcar" /> </p>
 
-- 🔭 I’m currently studying **Data Science and ML techniques**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsrenatoc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rdcar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@renatodc89) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28344980) 
 
-- 🌱 I’m currently learning **TensorFlow, SciKit-Learn, PyTorch and general statistics**
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rdcar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rdcar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rdcar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
+![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+---
+[![](https://visitcount.itsvg.in/api?id=rdcar&icon=5&color=0)](https://visitcount.itsvg.in)
 
-- 👯 I’m looking to collaborate on **Exploratory and predictive analysis**
-
-- 📫 How to reach me **renatodc89@gmail.com**
-
-- ⚡ Fun fact **I play CS (Counter-Strike) since 00's and still suck at it. At least I've made good friends though.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rdcar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rdcar" height="30" width="40" /></a>
-<a href="https://instagram.com/itsrenatoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsrenatoc" height="30" width="40" /></a>
-<a href="https://medium.com/@renatodc89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@renatodc89" height="30" width="40" /></a>
-<a href="https://discord.gg/411065593060392960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="411065593060392960" height="30" width="40" /></a>
-<a href="/https://medium.com/@renatodc89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/@renatodc89" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdcar&show_icons=true&locale=en&layout=compact" alt="rdcar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rdcar&show_icons=true&locale=en" alt="rdcar" /></p>
-<p><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
