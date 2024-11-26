@@ -15,6 +15,9 @@
 ---
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 ---
+<script src="https://cdn.jsdelivr.net/npm/github-readme-medium-recent-article@latest/dist/github-readme-medium-recent-article.min.js"></script>
+<script>githubReadmeMediumRecentArticle({ username: '@rdcar', count: 5 });</script>
+---
 [**Listen to cool music**](https://www.youtube.com/watch?v=eVTXPUF4Oz4)<br/>
 <img src="https://media.giphy.com/media/4oMoIbIQrvCjm/giphy.gif?cid=790b761140b3nehmvx0cguj5u7jzx71317e0mgazf6tap3p7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="20%" height="auto">
 
