@@ -17,6 +17,7 @@
 ---
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [O Mundo é Normal: Entendendo a Distribuição Gaussiana](https://medium.com/@rdcar/o-mundo-%C3%A9-normal-entendendo-a-distribui%C3%A7%C3%A3o-gaussiana-33e9e3770cd2?source=rss-b4c40937f149------2)
 <!-- BLOG-POST-LIST:END -->
 ---
 [**Listen to cool music**](https://www.youtube.com/watch?v=eVTXPUF4Oz4)<br/>
