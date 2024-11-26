@@ -14,12 +14,12 @@
 [![](https://visitcount.itsvg.in/api?id=rdcar&icon=5&color=0)](https://visitcount.itsvg.in)
 ---
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
----
-## 📰 Latest Blog Posts
+
+## 📰 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [O Mundo é Normal: Entendendo a Distribuição Gaussiana](https://medium.com/@rdcar/o-mundo-%C3%A9-normal-entendendo-a-distribui%C3%A7%C3%A3o-gaussiana-33e9e3770cd2?source=rss-b4c40937f149------2)
 <!-- BLOG-POST-LIST:END -->
----
-[**Listen to cool music**](https://www.youtube.com/watch?v=eVTXPUF4Oz4)<br/>
-<img src="https://media.giphy.com/media/4oMoIbIQrvCjm/giphy.gif?cid=790b761140b3nehmvx0cguj5u7jzx71317e0mgazf6tap3p7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="20%" height="auto">
+
+[**Listen to cool music --> Click here**](https://www.youtube.com/watch?v=eVTXPUF4Oz4)<br/>
+<img src="https://media.giphy.com/media/4oMoIbIQrvCjm/giphy.gif?cid=790b761140b3nehmvx0cguj5u7jzx71317e0mgazf6tap3p7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30%" height="auto">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
