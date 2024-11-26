@@ -15,7 +15,7 @@
 ---
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 ---
-# Blog posts
+## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 ---
