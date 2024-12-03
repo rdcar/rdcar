@@ -17,6 +17,7 @@
 
 ## 📰 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Algoritmo k-Nearest Neighbors &lpar;kNN&rpar;: Simples e Poderoso!](https://medium.com/@rdcar/algoritmo-k-nearest-neighbors-knn-simples-e-poderoso-a9bbcdbf3d6c?source=rss-b4c40937f149------2)
 - [Relação entre Precisão, Acurácia, Sensibilidade, Especificidade e F1-Score na Ciência de Dados](https://medium.com/@rdcar/entendendo-a-rela%C3%A7%C3%A3o-entre-precis%C3%A3o-acur%C3%A1cia-sensibilidade-e-f1-score-na-ci%C3%AAncia-de-dados-2fe5bc9e6ae1?source=rss-b4c40937f149------2)
 - [O Mundo é Normal: Entendendo a Distribuição Gaussiana](https://medium.com/@rdcar/o-mundo-%C3%A9-normal-entendendo-a-distribui%C3%A7%C3%A3o-gaussiana-33e9e3770cd2?source=rss-b4c40937f149------2)
 <!-- BLOG-POST-LIST:END -->
