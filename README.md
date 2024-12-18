@@ -17,6 +17,7 @@
 
 ## 📰 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Regressão Linear: Hands-on com Scikit-Learn e Python](https://medium.com/@rdcar/regress%C3%A3o-linear-hands-on-com-scikit-learn-e-python-cd8d33bfd297?source=rss-b4c40937f149------2)
 - [Inteligência Artificial, Machine Learning e Deep Learning: Diferenças e Conexões em um Cenário…](https://medium.com/@rdcar/intelig%C3%AAncia-artificial-machine-learning-e-deep-learning-diferen%C3%A7as-e-conex%C3%B5es-em-um-cen%C3%A1rio-d10ed6a81602?source=rss-b4c40937f149------2)
 - [Algoritmo k-Nearest Neighbors &lpar;kNN&rpar;: Simples e Poderoso!](https://medium.com/@rdcar/algoritmo-k-nearest-neighbors-knn-simples-e-poderoso-a9bbcdbf3d6c?source=rss-b4c40937f149------2)
 - [Relação entre Precisão, Acurácia, Sensibilidade, Especificidade e F1-Score na Ciência de Dados](https://medium.com/@rdcar/entendendo-a-rela%C3%A7%C3%A3o-entre-precis%C3%A3o-acur%C3%A1cia-sensibilidade-e-f1-score-na-ci%C3%AAncia-de-dados-2fe5bc9e6ae1?source=rss-b4c40937f149------2)
