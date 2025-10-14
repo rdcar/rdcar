@@ -17,11 +17,11 @@
 
 ## 📰 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [A Relação entre Bomba Atômica, Chat-GPT e uma Briga entre Matemáticos: O Legado Determinístico das…](https://medium.com/@rdcar/a-rela%C3%A7%C3%A3o-entre-bomba-at%C3%B4mica-chat-gpt-e-uma-briga-entre-matem%C3%A1ticos-o-legado-determin%C3%ADstico-das-c2e9091b1fa3?source=rss-b4c40937f149------2)
 - [A Maldição da Dimensionalidade: O Fantasma que Assombra o Machine Learning](https://medium.com/@rdcar/a-maldi%C3%A7%C3%A3o-da-dimensionalidade-o-fantasma-que-assombra-o-machine-learning-75479278e78b?source=rss-b4c40937f149------2)
 - [Avaliação de Viéses em Modelos Preditivos: Paridade Demográfica, Igualdade de Oportunidade e…](https://medium.com/@rdcar/avalia%C3%A7%C3%A3o-de-vi%C3%A9ses-em-modelos-preditivos-paridade-demogr%C3%A1fica-igualdade-de-oportunidade-e-9488973f1289?source=rss-b4c40937f149------2)
 - [Ética no uso de dados em Data Science](https://medium.com/@rdcar/%C3%A9tica-no-uso-de-dados-em-data-science-f2aa95e18d0a?source=rss-b4c40937f149------2)
 - [Regressão Linear: Hands-on com Scikit-Learn e Python](https://medium.com/@rdcar/regress%C3%A3o-linear-hands-on-com-scikit-learn-e-python-cd8d33bfd297?source=rss-b4c40937f149------2)
-- [Inteligência Artificial, Machine Learning e Deep Learning: Diferenças e Conexões em um Cenário…](https://medium.com/@rdcar/intelig%C3%AAncia-artificial-machine-learning-e-deep-learning-diferen%C3%A7as-e-conex%C3%B5es-em-um-cen%C3%A1rio-d10ed6a81602?source=rss-b4c40937f149------2)
 <!-- BLOG-POST-LIST:END -->
 
 [**Listen to cool music --> Click here**](https://www.youtube.com/watch?v=eVTXPUF4Oz4)<br/>
